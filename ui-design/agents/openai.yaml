@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI设计"
+  short_description: "基于具体业务设计有辨识度的界面，兼顾排版、配色、交互与前端落地"
+  default_prompt: "使用 $ui-design，结合我的需求和现有项目规范，设计或改进这个界面。"
